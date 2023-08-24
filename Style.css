@@ -1,12 +1,16 @@
 h1 {
     color: #e02ecc;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
 }
 .puntajes {
     display: flex;
     justify-content: space-around;
 }
-.imagen {
-    width: 200px;
+.manos {
+    display: flex;
+    justify-content: space-around;
+}
+.mano {
+    width: 50px;
 }
